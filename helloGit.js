@@ -1,1 +1,0 @@
-console.lgo('Hello,JS');
